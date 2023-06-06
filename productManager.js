@@ -37,9 +37,7 @@ class ProductManager {
 		console.log("Not Found");
 	  }
 	}
-/* 	#GetIncremental() {
-		console.log(this.incremental);
-	} */
+
   }
   const productManager= new ProductManager()
   
